@@ -24,4 +24,4 @@
 </div>
 
 ### Projects
-![snake animation](https://github.com/fmcruz01/fmcruz01/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/fmcruz01/fmcruz01/blob/output/github-contribution-grid-snake.svg)
